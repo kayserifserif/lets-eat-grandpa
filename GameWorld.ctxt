@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameWorld()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ GameWorld.\n\ \n
+comment1.params=
+comment1.target=Counter\ getCounter()
+comment1.text=\n\ Get\ Counter\ object;\n\ \n\ @return\ \ Counter\ object.\n
+comment2.params=
+comment2.target=Utility\ getUtility()
+comment2.text=\n\ Get\ Utility\ object.\n\ \n\ @return\ \ Utility\ object.\n
+numComments=3

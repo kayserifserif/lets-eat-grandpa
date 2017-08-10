@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Utility()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Utility.\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\n\ When\ the\ actor\ has\ been\ inserted\ into\ the\ world,\ add\ Sentence\ object.\n\ \n\ @param\ \ \ world\ \ \ The\ world\ the\ object\ was\ added\ to.\n
+comment2.params=
+comment2.target=void\ readFile()
+comment2.text=\n\ Read\ file\ and\ input\ the\ words\ into\ an\ ArrayList,\ and\ the\ answers\ into\ a\ List.\n
+comment3.params=
+comment3.target=void\ populate()
+comment3.text=\n\ Create\ Word\ and\ Answer\ objects\ and\ typeset\ the\ text\ within\ a\ set\ boundary.\n
+comment4.params=position
+comment4.target=void\ getAnswerStrings(int)
+comment4.text=\n\ Get\ the\ List\ of\ answer\ Strings.\n\ \n\ @param\ \ \ position\ \ \ \ The\ position\ in\ the\ items\ ArrayList.\n
+comment5.params=
+comment5.target=Sentence\ getSentence()
+comment5.text=\n\ Get\ Sentence\ object.\n\ \n\ @return\ \ Sentence\ object.\n
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=word\ answer\ isAnswer
+comment0.target=Word(java.lang.String,\ java.lang.String,\ boolean)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Word.\n\ \n\ @param\ \ \ word\ \ \ \ The\ word\ to\ be\ displayed.\n\ @param\ \ \ answer\ \ The\ correct\ version\ of\ the\ word.\n\ @param\ \ \ isAnswer\ \ \ \ If\ the\ word\ is\ the\ answer\ in\ the\ sentence.\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\n\ When\ the\ actor\ has\ been\ inserted\ into\ the\ world,\ create\ image.\n\ \n\ @param\ \ \ world\ \ \ The\ world\ the\ object\ was\ added\ to.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Word\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

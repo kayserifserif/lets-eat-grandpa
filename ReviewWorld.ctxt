@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=utility
+comment0.target=ReviewWorld(Utility)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ReviewWorld.\n\ \n\ @param\ \ \ utility\ Utility\ object.\n
+comment1.params=
+comment1.target=Utility\ getUtility()
+comment1.text=\n\ Return\ Utility\ object.\n\ \n\ @return\ \ Utility\ object.\n
+numComments=2

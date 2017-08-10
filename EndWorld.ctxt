@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=score\ utility
+comment0.target=EndWorld(int,\ Utility)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ EndWorld.\n\ \n\ @param\ \ \ score\ \ \ The\ user's\ final\ score.\n\ @param\ \ \ utility\ Utility\ object.\n
+comment1.params=
+comment1.target=Utility\ getUtility()
+comment1.text=\n\ Get\ Utility\ object.\n\ \n\ @return\ \ Utility\ object.\n
+numComments=2

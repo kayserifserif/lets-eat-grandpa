@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Sentence()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Sentence.\n\ \n
+comment1.params=
+comment1.target=void\ updateImage()
+comment1.text=\n\ Update\ image\ based\ on\ the\ \n
+comment2.params=
+comment2.target=void\ next()
+comment2.text=\n\ Increases\ count\ and\ updates\ image.\n
+numComments=3
